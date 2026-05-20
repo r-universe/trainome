@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "seqwrap"]
+	path = seqwrap
+	url = https://github.com/trainome/seqwrap
